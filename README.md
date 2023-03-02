@@ -37,7 +37,7 @@ We provide scripts for reproducing all the results from our paper. You can train
 * Python 3.6
 * PyTorch >= 1.0.0
 * numpy
-* skimage
+* skimage (scikit-image)
 * **imageio**
 * matplotlib
 * tqdm
